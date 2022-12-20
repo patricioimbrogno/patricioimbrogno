@@ -16,12 +16,6 @@ Soy un afortunado de haber vivido una hermosa etapa como periodista y comunicado
    </p>
 <br/>
 
-<br/>
-<div align="center">
- <img align="center" alt="Stats" height="180px" style="padding-right:10px" src="https://github-readme-stats.vercel.app/api?username=patricioimbrogno&show_icons=true&theme=radical" />
-</div>
-<br/>
-
 ---
 
 ### 🧰 Lenguajes y herramientas
