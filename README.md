@@ -24,7 +24,8 @@ Soy un afortunado de haber vivido una hermosa etapa como periodista y comunicado
 
 ### 📊 Estadísticas
 
-![Patricio Imbrogno's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patricioimbrogno&show_icons=true&theme=gruvbox)
+![Patricio Imbrogno's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patricioimbrogno&show_icons=true&theme=algolia&include_all_commits=true)
+
 
 
 ### 🧰 Lenguajes y herramientas
